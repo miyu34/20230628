@@ -1,11 +1,11 @@
 <?php
 
-namespace Database\Seeders;
+namespace database\seeders;
 
-use Illuminate\Database\Seeder;
+use Illuminate\database\seeder;
 use Illuminate\Support\Facades\DB;
 
-class AuthorsTableSeeder extends Seeder
+class AuthorsTableSeeder extends seeder
 {
   /**
   * Run the database seeds.
